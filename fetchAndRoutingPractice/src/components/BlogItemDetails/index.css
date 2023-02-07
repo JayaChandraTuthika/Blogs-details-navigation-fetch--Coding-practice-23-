@@ -1,0 +1,34 @@
+* {
+  /* border: 1px solid black; */
+  font-family: 'roboto';
+}
+.blog-details-container {
+  width: 90%;
+
+  margin: 5%;
+}
+.blog-details-heading {
+  text-align: center;
+  font-size: 35px;
+  color: black;
+}
+.avatar-container {
+  display: flex;
+  align-items: center;
+}
+.avatar-image {
+  height: 45px;
+  border-radius: 25px;
+  margin: 5px 10px;
+}
+.blog-main-image {
+  width: 100%;
+  border-radius: 15px;
+  margin: 10px 0px;
+}
+.blog-content {
+  color: #2f4f4f;
+  font-size: 25px;
+  padding: 15px 0px;
+  margin: 0;
+}
